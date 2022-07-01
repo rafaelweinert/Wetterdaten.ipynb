@@ -1,0 +1,6 @@
+Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Einheit;Datenquelle (Strukturversion=SV);Zusatz-Info;Besonderheiten;Literaturhinweis;eor;
+5100;19580101;20220531;Trier-Petrisberg;FD_LBERG;Stundensumme der kurzwelligen diffusen Himmelsstrahlung;J/cm²;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);in UTC und WOZ;;;eor;
+5100;19580101;20220531;Trier-Petrisberg;FG_LBERG;Stundensumme der kurzwelligen Globalstrahlung;J/cm²;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);in UTC und WOZ;;;eor;
+5100;19580101;20220531;Trier-Petrisberg;SD_LBERG;Stundensumme der Sonnenscheindauer;Minute;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);in UTC und WOZ;;;eor;
+Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
+generiert: 20.06.2022 --  Deutscher Wetterdienst  --

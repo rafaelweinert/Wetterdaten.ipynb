@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/OneDrive/Dokumente/Studium/Semester 6/AMD/.idea/AMD.iml" filepath="$USER_HOME$/OneDrive/Dokumente/Studium/Semester 6/AMD/.idea/AMD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Teamprojekt/.idea/Teamprojekt.iml" filepath="$PROJECT_DIR$/../Teamprojekt/.idea/Teamprojekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VWL 3/.idea/VWL 3.iml" filepath="$PROJECT_DIR$/../VWL 3/.idea/VWL 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Wärmepumpe.iml" filepath="$PROJECT_DIR$/.idea/Wärmepumpe.iml" />
+    </modules>
+  </component>
+</project>

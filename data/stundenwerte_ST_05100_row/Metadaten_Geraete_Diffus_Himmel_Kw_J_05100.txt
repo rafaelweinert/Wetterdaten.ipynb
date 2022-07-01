@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;;19720310;19770705;Pyranometer CM2;Strahlungsmessung, elektr.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;;19770706;19810430;Pyranometer CM5;Strahlungsmessung, elektr.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;;19831005;19871123;Pyranometer CM10;Strahlungsmessung, elektr.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;12.9;19871124;20031104;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;12.9;20080703;20150531;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;12.97;20150415;20190411;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;12.97;20190417;20210115;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;12.97;20210317;20220619;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+generiert: 20.06.2022 --  Deutscher Wetterdienst  --

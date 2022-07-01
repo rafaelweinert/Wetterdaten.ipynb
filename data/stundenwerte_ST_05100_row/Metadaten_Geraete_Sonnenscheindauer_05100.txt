@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;12;19580101;19771231;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;12.8;19780101;20010612;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;12.8;20010613;20071016;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;13.8;20071017;20161106;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;13.8;20180917;20190409;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;13.8;20210310;20220619;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+generiert: 20.06.2022 --  Deutscher Wetterdienst  --
